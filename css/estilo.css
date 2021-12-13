@@ -1,0 +1,27 @@
+body {
+    background-color:	#DEB887;
+}   
+h1 {
+    font-family: Arial;
+    text-align: center;
+    background-color: #FA8072;
+
+}
+
+.owl-carousel img {
+    height: 400px;
+}
+
+#botao_anterior, #botao_proximo {
+    position: absolute;
+    top: 175px;
+}
+
+#botao_anterior {
+    left: 35px;
+}
+
+#botao_proximo {
+    right: 35px;
+}
+
